@@ -95,8 +95,8 @@ class _MyHomePageState extends State<MyHomePage> {
         },
       )
       ..loadRequest(
-        // Uri.parse('https://stgdowndev.mantratecapp.com/Download/Admin'),
-        Uri.parse('https://www.linkedin.com/in/jaivik-kotadiya-278b1419b/'),
+        Uri.parse('https://stgdowndev.mantratecapp.com/Download/Admin'),
+        // Uri.parse('https://www.linkedin.com/in/jaivik-kotadiya-278b1419b/'),
       );
   }
 
